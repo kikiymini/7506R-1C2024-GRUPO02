@@ -1,10 +1,10 @@
 # 7506R-1C2024-GRUPO02
 
-## CHECKPOINT 2
+## ENTREGA FINAL
 
 Trabajo práctico 1 - Organización de Datos - Rodríguez
 
-Para ingresar al reporte de esta entrega haga clic [aquí](https://github.com/kikiymini/7506R-1C2024-GRUPO02/blob/main/7506R_TP1_GRUPO02_CHP2_REPORTE.pdf)
+Para ingresar al reporte de esta entrega haga clic [aquí](https://github.com/kikiymini/7506R-1C2024-GRUPO02/blob/main/7506R_TP1_GRUPO02_REPORTE.pdf)
 
 Para ingresar al notebook numero 1 [aquí](https://github.com/kikiymini/7506R-1C2024-GRUPO02/blob/main/7506R_TP1_GRUPO02_ENTREGA_N1.ipynb)
 
